@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<database>
+	<user>
+		<id>15301892</id>
+		<password>12345678</password>
+	</user>
+	<user>
+		<id>15302112</id>
+		<password>12341234</password>
+	</user>
+	<user>
+		<id>15302312</id>
+		<password>12345678</password>
+	</user>
+
+
+</database>
